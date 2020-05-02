@@ -1,6 +1,4 @@
-# liri-node-app
-
-# Description
+# Liri-node-app
 
 This bot is able to take in commands from three seperate API's and then output the result in the console. This provides the user
 with a tool to search for their favorite song/band/movie and recieve information on that topic.
