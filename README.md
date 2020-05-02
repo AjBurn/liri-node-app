@@ -31,7 +31,7 @@ Please note you will need an API key to run Spotify as well as movies.
   
   Provides the user with the artist's next show information. Includes: date, time, and location.
   
-  ![image of concerts](/assets/images/concert.png)
+  (/assets/images/concert.png)
   
   ### 2. Spotify
   
@@ -39,7 +39,7 @@ Please note you will need an API key to run Spotify as well as movies.
   
   Allows the user to search a song in the Spotify database and returns with information. Includes: artist, song name, album, and link.
   
-  ![image of concerts](/assets/images/spot-song.png)
+  (/assets/images/spot-song.png)
   
   ### 3. Movies
   
@@ -48,7 +48,7 @@ Please note you will need an API key to run Spotify as well as movies.
   The user may search for a movie title which then returns information on the movie.
   Includes: title, cast, release, ratings, country language and plot.
   
-  ![image of concerts](/assets/images/movies.png)
+  (/assets/images/movies.png)
   
   ### 4. Random
   
@@ -56,5 +56,8 @@ Please note you will need an API key to run Spotify as well as movies.
   
   This command will pick between concerts, spotify, or movies at random and run that command.
   
-  ![image of concerts](/assets/images/dowhat.png)
+  (/assets/images/dowhat.png)
 
+If the user does not enter a command or the command is not recognized the program will suggest the proper list of commands.
+
+(/assets/images/error.png)
