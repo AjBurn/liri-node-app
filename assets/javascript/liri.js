@@ -117,7 +117,7 @@ function movieInfo() {
 // Random
 
 function doWhatItSays() {
-    fs.readFile("../random.txt", "utf8", function (error, data) {
+    fs.readFile("../../random.txt", "utf8", function (error, data) {
         if (error) {
             return console.log(error);
         }
