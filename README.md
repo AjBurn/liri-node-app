@@ -41,8 +41,12 @@ Please note you will need an API key to run Spotify as well as movies.
   The user may search for a movie title which then returns information on the movie.
   Includes: title, cast, release, ratings, country language and plot.
   
+  ![image of concerts](/assets/images/movies.png)
+  
   4. Random
   
   Command: do-what-it-says
   This command will pick between concerts, spotify, or movies at random and run that command.
+  
+  ![image of concerts](/assets/images/dowhat.png)
 
