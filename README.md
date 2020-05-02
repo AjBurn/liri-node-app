@@ -27,7 +27,7 @@ Please note you will need an API key to run Spotify as well as movies.
   
   ![image of concerts](/assets/images/concert.png)
   
-  ### 2.Spotify
+  ### 2. Spotify
   
   Command: spotify-this-song (Song Name)
   
