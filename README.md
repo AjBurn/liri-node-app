@@ -60,4 +60,4 @@ Please note you will need an API key to run Spotify as well as movies.
 
 If the user does not enter a command or the command is not recognized the program will suggest the proper list of commands.
 
-(/assets/images/error.png)
+![image of concertThis](/assets/images/error.png)
