@@ -26,6 +26,8 @@ Please note you will need an API key to run Spotify as well as movies.
   Command: concert-this (Artist Name)  
   Provides the user with the artist's next show information. Includes: date, time, and location.
   
+  ![image of concerts](/images/concert.png)
+  
   2. Spotify
   
   Command: spotify-this-song (Song Name)
