@@ -7,11 +7,17 @@ with a tool to search for their favorite song/band/movie and recieve information
 
 Make sure to install the following node packages before attempting to use the Liri bot:
 
-1. Dotenv: Loads variables from the .env file to the process.env. Use 'npm install dotenv'
+#### 1. Dotenv:
 
-2. Moment: Makes http calls and follows redirects. Use 'npm isntall request'
+Loads variables from the .env file to the process.env. Use 'npm install dotenv'
 
-3. Axios: Makes http requests from node, supports Promise API. Use 'npm install axios']
+#### 2. Moment:
+
+Makes http calls and follows redirects. Use 'npm isntall request'
+
+### 3. Axios:
+
+Makes http requests from node, supports Promise API. Use 'npm install axios'
 
 After installing the necessary packages open Gitbash, terminal, console and enter any of the commands found in the below section.
 
