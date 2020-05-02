@@ -19,7 +19,7 @@ Please note you will need an API key to run Spotify as well as movies.
 
 # Commands
 
-1. Concerts
+1. ### Concerts
 
   Command: concert-this (Artist Name)
   
@@ -27,7 +27,7 @@ Please note you will need an API key to run Spotify as well as movies.
   
   ![image of concerts](/assets/images/concert.png)
   
-  2. Spotify
+  2. ### Spotify
   
   Command: spotify-this-song (Song Name)
   
@@ -35,7 +35,7 @@ Please note you will need an API key to run Spotify as well as movies.
   
   ![image of concerts](/assets/images/spot-song.png)
   
-  3. Movies
+  3. ### Movies
   
   Command: movie-this (Movie Title)
   
@@ -44,7 +44,7 @@ Please note you will need an API key to run Spotify as well as movies.
   
   ![image of concerts](/assets/images/movies.png)
   
-  4. Random
+  4. ### Random
   
   Command: do-what-it-says
   
