@@ -39,7 +39,7 @@ Please note you will need an API key to run Spotify as well as movies.
   The user may search for a movie title which then returns information on the movie.
   Includes: title, cast, release, ratings, country language and plot.
   
-  ![image of concerts](/assets/images/spot-song.png)
+  ![image of concerts](/assets/images/movies.png)
   
   4. Random
   
