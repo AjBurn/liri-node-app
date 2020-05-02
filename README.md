@@ -15,7 +15,7 @@ Loads variables from the .env file to the process.env. Use 'npm install dotenv'
 
 Makes http calls and follows redirects. Use 'npm isntall request'
 
-### 3. Axios:
+#### 3. Axios:
 
 Makes http requests from node, supports Promise API. Use 'npm install axios'
 
