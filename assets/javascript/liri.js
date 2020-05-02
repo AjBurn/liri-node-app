@@ -37,7 +37,7 @@ function userCommand(userInput, userQuery) {
             doWhatItSays(userQuery);
             break;
         default:
-            console.log("I don't understand");
+            console.log("\nCommand not recognized, try: \n concert-this (Artist Name) \n spotify-this-song (Song Name) \n movie-this (Movie Title) \n do-what-it-says");
             break;
     }
 }
