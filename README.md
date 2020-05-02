@@ -21,7 +21,8 @@ Please note you will need an API key to run Spotify as well as movies.
 
 1. Concerts
 
-  Command: concert-this (Artist Name)  
+  Command: concert-this (Artist Name)
+  
   Provides the user with the artist's next show information. Includes: date, time, and location.
   
   ![image of concerts](/assets/images/concert.png)
@@ -29,6 +30,7 @@ Please note you will need an API key to run Spotify as well as movies.
   2. Spotify
   
   Command: spotify-this-song (Song Name)
+  
   Allows the user to search a song in the Spotify database and returns with information. Includes: artist, song name, album, and link.
   
   ![image of concerts](/assets/images/spot-song.png)
@@ -36,6 +38,7 @@ Please note you will need an API key to run Spotify as well as movies.
   3. Movies
   
   Command: movie-this (Movie Title)
+  
   The user may search for a movie title which then returns information on the movie.
   Includes: title, cast, release, ratings, country language and plot.
   
@@ -44,6 +47,7 @@ Please note you will need an API key to run Spotify as well as movies.
   4. Random
   
   Command: do-what-it-says
+  
   This command will pick between concerts, spotify, or movies at random and run that command.
   
   ![image of concerts](/assets/images/dowhat.png)
