@@ -33,6 +33,8 @@ Please note you will need an API key to run Spotify as well as movies.
   Command: spotify-this-song (Song Name)
   Allows the user to search a song in the Spotify database and returns with information. Includes: artist, song name, album, and link.
   
+  ![image of concerts](/assets/images/spot-song.png)
+  
   3. Movies
   
   Command: movie-this (Movie Title)
